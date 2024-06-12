@@ -35,3 +35,7 @@ body{
     display: block;
     text-decoration: none;
 }
+.botaosecundario {
+    backround-color: transparent;
+    borde: 2px solid var(--branco-principal);
+    
